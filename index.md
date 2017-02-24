@@ -4,8 +4,8 @@ I am a 4th year PhD student in Biostatistics at Columbia University.
 
 ### Research Interest
 ```markdown
-*Functional Data Analysis
-*Network Analysis
+* Functional Data Analysis
+* Network Analysis
 ```
 
 ### Contact
