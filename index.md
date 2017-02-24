@@ -8,8 +8,6 @@ I am a 4th year PhD student in Biostatistics at Columbia University.
 * Network Analysis
 ```
 
-### Contact
-
 ### Useful Resources
 
 [Columbia Functional Data Analysis Working Group](https://www.mailman.columbia.edu/research/functional-data-analysis-working-group)
