@@ -1,3 +1,3 @@
 # jihuilee.github.io
 
-Personal Website
+Personal Website [here](http://jihuilee.github.io/)
