@@ -5,3 +5,10 @@ title: "Jihui Lee"
 ### I have a webpage!
 
 And I can put all kinds of stuff on it!
+- __Name:__ aaa
+- __Ocupation:__ "Student"
+- __Hobbies:__ Learning software development instead of studying for exams. 
+
+Here is a super cool photo of me doing one of my favorite things, yawning. 
+
+![](image/image.jpg)
