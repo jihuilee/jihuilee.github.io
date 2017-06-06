@@ -3,8 +3,10 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
+    - text: "About Me"
       href: about.html
+    - text: "More About Me"
+      href: about2.html
     - icon: fa-envelope fa-lg
       href: mailto:<jihui.lee@columbia.edu>
     - icon: fa-github fa-lg
