@@ -1,5 +1,5 @@
 ---
-title: "My website"
+title: "Jihui Lee"
 ---
 
 ### I have a webpage!
