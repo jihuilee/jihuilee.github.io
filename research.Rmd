@@ -2,4 +2,29 @@
 title: "Research"
 ---
 
-My research experienceffdd
+<br> 
+
+#### Research Interests
+
+My research interests are vastly in 
+
+1) Functional Data Analysis
+2) Statistical Analysis of Complex Networks 
+3) Data Mining and Machine Learning
+
+<br>
+
+#### Ongoing Projects
+
+Projects I am currently working on are:
+
+1. Dynamic Network Analysis: Varying-Coefficient Exponential Random Graph Models (VCERGMs)
+
+<br><img src="image/congress.png" alt="congress" style="width:80%; border:1px solid"><br>
+
+2. Functional Registration
+
+<br><img src="image/registration.png" alt="registration" style="width:80%; border:1px solid"><br>
+
+
+

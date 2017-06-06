@@ -2,4 +2,9 @@
 title: "Teaching"
 ---
 
-My teaching experienceaa
+<br> 
+
+I LOVE teaching!
+
+<br><img src="image/BESTCSIBS.jpg" alt="teaching" style="width:60%; border:1px solid"><br>
+
