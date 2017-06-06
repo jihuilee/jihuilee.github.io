@@ -4,11 +4,11 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: About.html
+      href: about.html
     - text: "Research"
-      href: Research.html
+      href: research.html
     - text: "Teaching"
-      href: Teaching.html
+      href: teaching.html
     - icon: fa-envelope fa-lg
       href: mailto:<jihui.lee@columbia.edu>
     - icon: fa-github fa-lg
