@@ -6,4 +6,5 @@ title: "Jihui Lee"
 
 And I can put all kinds of stuff on it!
 
-![](image/image.jpg)
+<br><img src="image/image.jpg" alt="abc" style="width:85%; border:5px solid"><br>
+
