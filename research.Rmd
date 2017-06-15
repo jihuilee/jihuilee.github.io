@@ -4,7 +4,7 @@ title: "Research"
 
 <br> 
 
-#### Research Interests
+### Research Interests
 
 My research interests are vastly in 
 
@@ -14,7 +14,7 @@ My research interests are vastly in
 
 <br>
 
-#### Ongoing Projects
+### Ongoing Projects
 
 Projects I am currently working on are:
 

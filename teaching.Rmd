@@ -4,12 +4,7 @@ title: "Teaching"
 
 <br> 
 
-I LOVE teaching!
-
-<br><img src="image/BESTCSIBS.jpg" alt="teaching" style="width:40%; border:1px solid"><br>
-
-
-> Instructor
+### Instructor
 
 ##### Full responsibility of curriculum, lectures, homework and exams
 
@@ -20,9 +15,9 @@ I LOVE teaching!
 
 <br> 
 
-> Teaching Assistant
+### Teaching Assistant
 
-#### Holding regular office hours & tutorials and grading assignments
+##### Holding regular office hours & tutorials and grading assignments
 
 * Columbia University
     + Theory of Statistical Inference 2 (P9110: Ph.D. Level), Spring 2016 - 2017
@@ -36,4 +31,8 @@ I LOVE teaching!
 * University of Seoul
     + Mathematical Statistics (Undergraduate Tutor), Fall 2011
       
-      
+
+<br><img src="image/BESTCSIBS.jpg" alt="teaching" style="width:50%; border:1px solid"><br>
+
+I LOVE teaching!
+
