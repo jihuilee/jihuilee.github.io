@@ -6,5 +6,34 @@ title: "Teaching"
 
 I LOVE teaching!
 
-<br><img src="image/BESTCSIBS.jpg" alt="teaching" style="width:60%; border:1px solid"><br>
+<br><img src="image/BESTCSIBS.jpg" alt="teaching" style="width:40%; border:1px solid"><br>
 
+
+> Instructor
+
+##### Full responsibility of curriculum, lectures, homework and exams
+
+* Columbia University
+    + Statistical Computing with SAS (P6110: Master Level), Spring 2016 - 2017; Fall 2016
+    + Introduction to Biostatistics (P6103: Master Level), Summer 2014 - 2017
+      (The Biostatistics Enrichment Summer Training Diversity Program (BEST) and Columbia Summer Institute for Training in Biostatistics (CSIBS))
+
+<br> 
+
+> Teaching Assistant
+
+#### Holding regular office hours & tutorials and grading assignments
+
+* Columbia University
+    + Theory of Statistical Inference 2 (P9110: Ph.D. Level), Spring 2016 - 2017
+    + Theory of Statistical Inference 1 (P9109: Ph.D. Level), Fall 2014 - 2016
+    + Linear Regression Models (P8111: Master Level), Spring 2015
+    + Introduction to Biostatistical Methods (P6104: Master Level), Summer 2014, 2017
+
+* Seoul National University
+    + Statistical Seminar (Undergraduate Level), Spring & Fall 2013
+    
+* University of Seoul
+    + Mathematical Statistics (Undergraduate Tutor), Fall 2011
+      
+      
