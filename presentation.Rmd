@@ -10,7 +10,7 @@ title: "Presentation"
     + *Varying-coefficient models for dynamic networks* (Speed oral and poster presentations)
 * North American Social Networks (NASN) Conference, Washington, DC, July 28, 2017
     + *Varying-coefficient models for dynamic networks* (Panel presentation)
-* Political Networks (PolNet) Workshops and Conference, Columbus, OH, June 15, 2017 
+* Political Networks (PolNet) Workshops and Conference, Columbus, OH, June 16, 2017 
     + *Varying-coefficient models for dynamic networks* (Panel presentation)
 * Data Science Institute (DSI), Columbia University, New York, NY, April 05, 2017
     + *Varying-coefficient models for dynamic networks* (Data Science Day: Poster presentation)
