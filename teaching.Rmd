@@ -9,7 +9,7 @@ title: "Teaching"
 ##### Full responsibility of curriculum, lectures, homework and exams
 
 * Columbia University
-    + Statistical Computing with SAS (P6110: Master Level), Spring 2016 - 2017; Fall 2016
+    + Statistical Computing with SAS (P6110: Master Level), Spring 2016 - 2017; Fall 2016 - 2017
     + Introduction to Biostatistics (P6103: Master Level), Summer 2014 - 2017
       (The Biostatistics Enrichment Summer Training Diversity Program (BEST) and Columbia Summer Institute for Training in Biostatistics (CSIBS))
 
