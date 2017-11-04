@@ -16,6 +16,6 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/jihuilee/
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/jihui-lee-543176151/
+      href: https://www.linkedin.com/in/jihuilee/
 output:
   html_document
