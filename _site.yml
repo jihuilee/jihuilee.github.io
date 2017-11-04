@@ -15,5 +15,7 @@ navbar:
       href: mailto:<jihui.lee@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/jihuilee/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jihui-lee-543176151/
 output:
   html_document
