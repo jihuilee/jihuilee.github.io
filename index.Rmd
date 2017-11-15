@@ -2,7 +2,7 @@
 <br><img src="image/VisualResume.pdf" alt="resume" style="width:100%; border:0px solid"><br>
 
 
-I received a BS in statistics from [University of Seoul](http://www.uos.ac.kr/en/) in 2011 and a MS in statistics from [Seoul National University](http://en.snu.ac.kr) in 2013. I am currently a fifth year PhD student at the department of biostatistics at Columbia University. My dissertation advisors are Dr. [Jeff Goldsmith](http://jeffgoldsmoth.com) and Dr. [Gen Li](https://sites.google.com/view/ligen).
+I received a BS in statistics from [University of Seoul](http://www.uos.ac.kr/en/) in 2011 and a MS in statistics from [Seoul National University](http://en.snu.ac.kr) in 2013. I am currently a fifth year PhD student at the department of biostatistics at Columbia University. My dissertation advisors are Dr. [Jeff Goldsmith](http://jeffgoldsmith.com) and Dr. [Gen Li](https://sites.google.com/view/ligen).
 
 <br>
 
