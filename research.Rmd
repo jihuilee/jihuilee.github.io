@@ -14,9 +14,17 @@ My research interests are vastly in
 
 <br>
 
-### Ongoing Projects
+### In Preparation
 
 Projects I am currently working on are:
+
+* **Detecting Changes in Congressional Twitter Networks**: Applying VCERGM to understand the evolution and detect the changes in congressional networks in Twitter.
+* **Effect of Co-Administration of Long-Acting Insulin in Acute Management of Diabetic Ketoacidosis**: Examing the efect of long-acting insulin in addition to IV insulin infusion as a treatment of diabetic ketoacidosis.
+* **Examining Patterns of Abnormality in Multiple Phenotype Traits among 16p11.2 Deletion / Duplication Children**: Finding patterns of childeren with 16p11.2 deletion / duplication to understand the profiles of abnormaility with respect to diagnosing autism spectrum disorder.
+
+<br>
+
+### Submitted Papers
 
 1. Dynamic Network Analysis: Varying-Coefficient Exponential Random Graph Models (VCERGMs)
 
@@ -28,9 +36,11 @@ Preprint is available [here](https://arxiv.org/abs/1702.03632).
 
 2. Functional Registration
 
-<br><img src="image/registration.png" alt="registration" style="width:80%; border:1px solid"><br>
+<br><img src="image/registration.png" alt="registration" style="width:100%; border:1px solid"><br>
 
-In this project, we propose a hierarchical model for curve registration that incorporates the function-on-scalar regression (FOSR) of warping functions. Curve registration is one of the prerequisites in functional data analysis to investigate the pure phase variation by distinguishing the time variation in the observed curves. This step can be done by identifying the warping functions that convert the clock (originally observed) time into the system (warped) time. With one of the fundamental assumptions that any observed curve is merely a deviated form from a primary direction, which every curve shares in common, the warping functions ensure that all the observations are aligned properly for direct comparison for amplitude variation.
+In this study, we explore the properties of continuous in-shoe sensor recordings using a functional data analysis approach. We separate the sources of variability (phase and amplitude) via curve registration. We examine the correlation of phase shifts across sensors within a stance to evaluate the pattern of phase variability shared across sensors. Using the registered curves, we explore possible associations between in-shoe sensor recordings and GRF measurements to evaluate the in-shoe sensor recordings as a possible surrogate for in-lab GRF measurements.
 
-<br><img src="image/collaboration.jpg" alt="collaboration" style="width:40%; border:1px solid"><br>
+Preprint is available upon request.
+
+<br><img src="image/collaboration.jpg" alt="collaboration" style="width:60%; border:1px solid"><br>
 I LOVE collaboration!
