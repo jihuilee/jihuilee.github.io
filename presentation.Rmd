@@ -6,21 +6,41 @@ title: "Presentation"
 
 ### Contributed
 
+* Political Networks (PolNet) Workshops and Conference, Arlington, VA, June 08, 2018
+    + *Detecting Changes in Congressional Twitter Networks* (Panel presentation)
+
+* Eastern North American Region (ENAR), Washington, DC, March 25, 2018
+    + *Functional Data Analyses of Gait Data* (Poster presentation)
+    
 * Joint Statistical Meetings (JSM), Baltimore, MD, July 31, 2017 
     + *Varying-coefficient models for dynamic networks* (Speed oral and poster presentations)
+    
 * North American Social Networks (NASN) Conference, Washington, DC, July 28, 2017
     + *Varying-coefficient models for dynamic networks* (Panel presentation)
+    
 * Political Networks (PolNet) Workshops and Conference, Columbus, OH, June 16, 2017 
     + *Varying-coefficient models for dynamic networks* (Panel presentation)
+    
 * Data Science Institute (DSI), Columbia University, New York, NY, April 05, 2017
     + *Varying-coefficient models for dynamic networks* (Data Science Day: Poster presentation)
+    
 * Eastern North American Region (ENAR), Washington, DC, March 14, 2017
     + *Varying-coefficient models for dynamic networks* (Student Paper Award Winnner: Panel presentation)
+    
 * Data Science Institute (DSI), Columbia University, New York, NY, September 29, 2016
     + *Functional Exponential Random Graph Models for Time-Varying Networks* (DSI Poster Social and Competition: First runner-up)
     
 ### Invited
 
+* Doctoral Research Symposium, Columbia University, New York, NY, April 02, 2018,
+    + *Functional Data Approaches to Temporally Heterogeneous Data*
+
+* Graduate Student Research Seminars (GSRS), Columbia University, New York, NY, March 21, 2018, 
+    + *Functional Data Analyses of Gait Data*
+
+* Functional Data Analysis Working Group (FDAWG), Columbia University, New York, NY, February 06, 2018,
+    + *Functional Data Analyses of Gait Data*
+    
 * Columbia Biostatistics Computing Club (CBCC), Columbia University, New York, NY, February 23, 2017,
     + *The beauty of ggplot2*
 

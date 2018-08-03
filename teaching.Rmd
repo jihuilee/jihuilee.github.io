@@ -4,20 +4,34 @@ title: "Teaching"
 
 <br> 
 
+### Honor
+
+<br> 
+
+* Columbia Presidential Teaching Award for Graduate Student Instructors, 2018
+
 ### Instructor
+
+<br> 
 
 ##### Full responsibility of curriculum, lectures, homework and exams
 
+<br> 
+
 * Columbia University
-    + Statistical Computing with SAS (P6110: Master Level), Spring 2016 - 2017; Fall 2016 - 2017
-    + Introduction to Biostatistics (P6103: Master Level), Summer 2014 - 2017
+    + Statistical Computing with SAS (P6110: Master Level), Spring 2016 - 2018; Fall 2016 - 2017; Summer 2018
+    + Introduction to Biostatistics (P6103: Master Level), Summer 2014 - 2018
       (The Biostatistics Enrichment Summer Training Diversity Program (BEST) and Columbia Summer Institute for Training in Biostatistics (CSIBS))
 
 <br> 
 
 ### Teaching Assistant
 
+<br> 
+
 ##### Holding regular office hours & tutorials and grading assignments
+
+<br> 
 
 * Columbia University
     + Theory of Statistical Inference 2 (P9110: Ph.D. Level), Spring 2016 - 2017

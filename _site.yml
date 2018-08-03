@@ -12,7 +12,7 @@ navbar:
     - text: "Software"
       href: software.html
     - icon: fa-envelope fa-lg
-      href: mailto:<jihui.lee@columbia.edu>
+      href: mailto:<jihui.lee94@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/jihuilee/
     - icon: fa-linkedin fa-lg
