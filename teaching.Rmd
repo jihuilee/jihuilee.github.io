@@ -8,6 +8,15 @@ output:
 
 <br> 
 
+<center>
+<br>
+<img src="image/BESTCSIBS.jpg" alt="teaching" style="width:50%; border:0px solid">
+<br>
+BEST/CSIBS at Columbia University, 2015
+</center>
+
+<br><br>
+
 ## Honor
 
 * Columbia Presidential Teaching Award for Graduate Student Instructors, 2018
@@ -42,10 +51,4 @@ output:
     
 * University of Seoul
     + Mathematical Statistics (Undergraduate Tutor), Fall 2011
-      
-<center>
-<br>
-<img src="image/BESTCSIBS.jpg" alt="teaching" style="width:60%; border:0px solid">
-<br>
-I LOVE teaching!
-</center>
+
