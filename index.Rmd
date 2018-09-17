@@ -1,5 +1,15 @@
+---
+title:
+output:
+html_document:
+  toc:true
+---
 
-<br><img src="image/VisualResume.png" alt="resume" style="width:100%; border:0px solid"><br>
+<br><br>
+
+<center><img src="image/profile.png" alt="resume" style="width:30%; border:0px solid"></center>
+
+<br><br>
 
 I received a PhD in biostatistics from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics) in 2018. My dissertation advisors are Dr. [Jeff Goldsmith](http://jeffgoldsmith.com) and Dr. [Gen Li](https://sites.google.com/view/ligen). My dissertation is available [here](https://doi.org/10.7916/D8N603XB).
 
@@ -14,7 +24,7 @@ My full CV is available [here](download/[Jihui Lee] Resume.pdf).
 ### Contact Information
 
 Office: 722 West 168th Street, Room 657 New York, New York 10032  
-Email: [jihui.lee@columbia.edu](mailto:jihui.lee@columbia.edu)  
+Email: [jihui.lee94@gmail.com](mailto:jihui.lee94@gmail.com)  
 GitHub: [github.com/jihuilee/](http://github.com/jihuilee/)
 
 

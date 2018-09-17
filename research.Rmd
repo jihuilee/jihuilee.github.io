@@ -1,10 +1,14 @@
 ---
 title: "Research"
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 <br> 
 
-### Research Interests
+## Research Interests
 
 My research interests are vastly in 
 
@@ -16,7 +20,7 @@ My research interests are vastly in
 
 <br>
 
-### In Preparation
+## In Preparation
 
 Projects I am currently working on are:
 
@@ -28,11 +32,11 @@ Projects I am currently working on are:
 
 <br> <br>
 
-### Submitted Papers
+## Submitted Papers
 
 <br>
 
-#### 1. Dynamic Network Analysis: Varying-Coefficient Exponential Random Graph Models (VCERGMs)
+### 1. Dynamic Network Analysis: Varying-Coefficient Exponential Random Graph Models (VCERGMs)
 
 <br><img src="image/congress.png" alt="congress" style="width:60%; border:1px solid"><br>
 
@@ -42,7 +46,7 @@ Preprint is available [here](https://arxiv.org/abs/1702.03632).
 
 <br> 
 
-#### 2. Functional Registration: Gait analysis
+### 2. Functional Registration: Gait analysis
 
 <br><img src="image/registration.png" alt="registration" style="width:70%; border:1px solid"><br>
 
@@ -52,11 +56,11 @@ Preprint is available upon request.
 
 <br> <br>
 
-### Published Papers
+## Published Papers
 
 <br>
 
-#### 1. Autism Spectrum Disorder and Brain MR Imaging Findings
+### 1. Autism Spectrum Disorder and Brain MR Imaging Findings
 
 <br><img src="image/brain.png" alt="congress" style="width:40%; border:1px solid"><br>
 

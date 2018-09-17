@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Jihui Lee"
   right:
+    - text: "Jihui in a Nutshell"
+      href: summary.html
     - text: "Research"
       href: research.html
     - text: "Teaching"
@@ -18,4 +20,5 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/jihuilee/
 output:
-  html_document
+  html_document:
+   theme: flatly
