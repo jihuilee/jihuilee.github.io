@@ -1,3 +1,7 @@
+---
+title: "Jihui Lee"
+output: html_document
+---
 
 <br><br>
 
@@ -7,9 +11,7 @@
 
 #### About
 
-I received a PhD in biostatistics from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics) in 2018. My dissertation advisors are Dr. [Jeff Goldsmith](http://jeffgoldsmith.com) and Dr. [Gen Li](https://sites.google.com/view/ligen). My dissertation is available [here](https://doi.org/10.7916/D8N603XB).
-
-Prior to that, I received a BS in statistics from [University of Seoul](http://www.uos.ac.kr/en/) in 2011 and a MS in statistics from [Seoul National University](http://en.snu.ac.kr) in 2013. 
+I received a PhD in biostatistics from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics) in 2018. My dissertation advisors are Dr. [Jeff Goldsmith](http://jeffgoldsmith.com) and Dr. [Gen Li](https://sites.google.com/view/ligen). My dissertation is available [here](https://doi.org/10.7916/D8N603XB). Prior to that, I received a BS in statistics from [University of Seoul](http://www.uos.ac.kr/en/) in 2011 and a MS in statistics from [Seoul National University](http://en.snu.ac.kr) in 2013. 
 
 <br>
 
@@ -20,6 +22,5 @@ My full CV is available [here](download/[Jihui Lee] Resume.pdf).
 
 #### Contact Information
 
-Office: 722 West 168th Street, Room 657 New York, New York 10032  
 Email: [jihui.lee94@gmail.com](mailto:jihui.lee94@gmail.com)  
 GitHub: [github.com/jihuilee/](http://github.com/jihuilee/)
