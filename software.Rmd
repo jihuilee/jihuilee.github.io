@@ -11,4 +11,6 @@ output:
 ## R Package ‘VCERGM'
 The R package 'VCERGM' implements varying-coefficient random graph models (VCERGMs) on dynamic networks. R package is available on [github](https://github.com/jihuilee/VCERGM).
 
-<br><img src="image/vcergm.png" alt="vcergm" style="width:80%; border:1px solid"><br>
+<br>
+<center><img src="image/vcergm.png" alt="vcergm" style="width:80%; border:0px solid"></center>
+<br>

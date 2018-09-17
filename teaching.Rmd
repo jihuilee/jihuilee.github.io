@@ -43,8 +43,9 @@ output:
 * University of Seoul
     + Mathematical Statistics (Undergraduate Tutor), Fall 2011
       
-
-<br><img src="image/BESTCSIBS.jpg" alt="teaching" style="width:60%; border:1px solid"><br>
-
+<center>
+<br>
+<img src="image/BESTCSIBS.jpg" alt="teaching" style="width:60%; border:0px solid">
+<br>
 I LOVE teaching!
-
+</center>

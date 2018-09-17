@@ -67,9 +67,11 @@ output:
 
 * Functional Data Analysis Working Group (FDAWG), Columbia University, New York, NY, February 24, 2015, 
     + *Data Visualization with ggplot2*
-    
-<br><img src="image/DSI.jpg" alt="presentation" style="width:60%; border:1px solid"><br>
-
+ 
+<center>   
+<br>
+<img src="image/DSI.jpg" alt="presentation" style="width:60%; border:0px solid">
+<br>
 I LOVE presenting my ideas and projects!
-
+</center>
 
