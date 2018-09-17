@@ -12,8 +12,6 @@ output:
 
 My research interests are vastly in 
 
-<br>
-
 * Functional Data Analysis
 * Statistical Analysis of Complex Networks 
 * Data Mining and Machine Learning
