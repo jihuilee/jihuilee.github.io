@@ -1,8 +1,8 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Jihui Lee"
-  right:
+  title: "Home"
+  left:
     - text: "Jihui in a Nutshell"
       href: summary.html
     - text: "Research"
@@ -13,6 +13,7 @@ navbar:
       href: presentation.html
     - text: "Software"
       href: software.html
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<jihui.lee94@gmail.com>
     - icon: fa-github fa-lg
