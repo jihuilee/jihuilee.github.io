@@ -3,7 +3,9 @@ title: "Jihui Lee"
 output: html_document
 ---
 
-<link rel="apple-touch-icon" href="/image/icon.png">
+<link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
+<link rel="icon" href="image/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="image/icon.png">
 
 <br><br>
 
