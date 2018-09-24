@@ -1,6 +1,5 @@
 ---
 title: "Jihui Lee"
-output: html_document
 ---
 
 <link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
