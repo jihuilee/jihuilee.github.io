@@ -4,8 +4,7 @@ title: "Jihui Lee"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicons/css/academicons.min.css"/>
-<link rel="apple-touch-icon" href="/image/icon.png" >
-
+<link rel="apple-touch-icon" href="/image/icon.png">
 
 <br><br>
 
