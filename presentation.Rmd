@@ -1,5 +1,5 @@
 ---
-title: "Presentation"
+title: "Presentations"
 output:
   html_document:
     toc: true
@@ -10,7 +10,7 @@ output:
 
 <center>   
 <br>
-<img src="image/DSI.jpg" alt="presentation" style="width:50%; border:0px solid">
+<img src="image/DSI.jpg" alt="presentation" style="width:30%; border:0px solid">
 <br>
 Poster presentation at Columbia Data Science Institute, 2016
 </center>

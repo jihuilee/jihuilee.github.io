@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching Experiences"
 output:
   html_document:
     toc: true
@@ -10,7 +10,7 @@ output:
 
 <center>
 <br>
-<img src="image/BESTCSIBS.jpg" alt="teaching" style="width:50%; border:0px solid">
+<img src="image/BESTCSIBS.jpg" alt="teaching" style="width:30%; border:0px solid">
 <br>
 BEST/CSIBS at Columbia University, 2015
 </center>
