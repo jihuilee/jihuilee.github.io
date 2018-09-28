@@ -16,11 +16,12 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<jihui.lee94@gmail.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/jihuilee/
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/jihuilee/
+    - icon: fa-github fa-lg
+      href: http://github.com/jihuilee/
+
 output:
   html_document:
-   theme: flatly
+   theme: lumen
    css: styles.css
