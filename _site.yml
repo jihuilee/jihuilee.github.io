@@ -1,7 +1,7 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"apple-touch-icon.png\" />"
   left:
     - text: "Jihui in a Nutshell"
       href: summary.html
