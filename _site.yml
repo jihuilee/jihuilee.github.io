@@ -20,6 +20,10 @@ navbar:
       href: https://www.linkedin.com/in/jihuilee/
     - icon: fa-github fa-lg
       href: http://github.com/jihuilee/
+    - icon: ai-researchgate ai-lg
+      href: https://www.researchgate.net/profile/Jihui_Lee5
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=PCzD4XcAAAAJ&hl=en
 
 output:
   html_document:

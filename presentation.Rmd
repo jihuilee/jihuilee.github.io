@@ -17,13 +17,26 @@ Poster presentation at Columbia Data Science Institute, 2016
 
 <br><br>
 
-### Contributed
+### 2018
 
 * Political Networks (PolNet) Workshops and Conference, Arlington, VA, June 08, 2018
     + *Detecting Changes in Congressional Twitter Networks* (Panel presentation)
 
+* Doctoral Research Symposium, Columbia University, New York, NY, April 02, 2018
+    + *Functional Data Approaches to Temporally Heterogeneous Data*
+    
 * Eastern North American Region (ENAR), Washington, DC, March 25, 2018
     + *Functional Data Analyses of Gait Data* (Poster presentation)
+
+* Graduate Student Research Seminars (GSRS), Columbia University, New York, NY, March 21, 2018
+    + *Functional Data Analyses of Gait Data*
+
+* Functional Data Analysis Working Group (FDAWG), Columbia University, New York, NY, February 06, 2018
+    + *Functional Data Analyses of Gait Data*
+    
+<br>
+
+### 2017
     
 * Joint Statistical Meetings (JSM), Baltimore, MD, July 31, 2017 
     + *Varying-coefficient models for dynamic networks* (Speed oral and poster presentations)
@@ -39,25 +52,14 @@ Poster presentation at Columbia Data Science Institute, 2016
     
 * Eastern North American Region (ENAR), Washington, DC, March 14, 2017
     + *Varying-coefficient models for dynamic networks* (Student Paper Award Winnner: Panel presentation)
-    
-* Data Science Institute (DSI), Columbia University, New York, NY, September 29, 2016
-    + *Functional Exponential Random Graph Models for Time-Varying Networks* (DSI Poster Social and Competition: First runner-up)
 
-<br> 
-
-### Invited
-
-* Doctoral Research Symposium, Columbia University, New York, NY, April 02, 2018
-    + *Functional Data Approaches to Temporally Heterogeneous Data*
-
-* Graduate Student Research Seminars (GSRS), Columbia University, New York, NY, March 21, 2018
-    + *Functional Data Analyses of Gait Data*
-
-* Functional Data Analysis Working Group (FDAWG), Columbia University, New York, NY, February 06, 2018
-    + *Functional Data Analyses of Gait Data*
-    
 * Columbia Biostatistics Computing Club (CBCC), Columbia University, New York, NY, February 23, 2017
     + *The beauty of ggplot2*
+
+
+<br>
+
+### 2016
 
 * Graduate Student Research Seminars (GSRS), Columbia University, New York, NY, October 13, 2016
     + *Incorporating the Function-on-Scalar Regression with Curve Registration via Variational Bayes*
@@ -65,11 +67,18 @@ Poster presentation at Columbia Data Science Institute, 2016
 * Functional Data Analysis Working Group (FDAWG), Columbia University, New York, NY, October 11, 2016
     + *A Family of Functional Exponential Random Graph Models for Dynamic Networks with Temporal Heterogeneity*
 
+* Data Science Institute (DSI), Columbia University, New York, NY, September 29, 2016
+    + *Functional Exponential Random Graph Models for Time-Varying Networks* (DSI Poster Social and Competition: First runner-up)
+
 * Functional Data Analysis Working Group (FDAWG), Columbia University, New York, NY, March 29, 2016
     + *Functional Exponential Random Graph Models for Smoothly Transitioning Networks*
 
 * Graduate Student Research Seminars (GSRS), Columbia University, New York, NY, March 24, 2016
     + *Functional Exponential Random Graph Models for Smoothly Transitioning Networks*
+
+<br>
+
+### 2015
 
 * P8111 Linear Regression Models (Guest Lecturer), Columbia University, New York, NY, March 03, 2015
     + *Weighted and Generalized Least Squares*
