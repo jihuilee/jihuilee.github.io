@@ -3,40 +3,60 @@ title: "Research Projects"
 output:
   html_document:
     toc: true
-    toc_float: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
 ---
 
 <link rel="stylesheet" href="academicons/css/academicons.min.css"/>
 
 <br> 
 
-## Research Interests
+### Research Interests
+
+<br>
 
 My research interests are vastly in 
 
-* Functional Data Analysis
-* Statistical Analysis of Complex Networks 
-* Data Mining and Machine Learning
-
-<br>
-
-## In Preparation
-
-Projects I am currently working on are:
-
-* **Detecting Changes in Congressional Twitter Networks**: Applying VCERGM to understand the evolution and detect the changes in congressional networks in Twitter.
-
-* **Effect of Co-Administration of Long-Acting Insulin in Acute Management of Diabetic Ketoacidosis**: Examing the efect of long-acting insulin in addition to IV insulin infusion as a treatment of diabetic ketoacidosis.
-
-* **Multilevel Stochastic Blockmodel**: Modeling time-varying block structure in dynamic networks.
+- Functional Data Analysis
+- Statistical Analysis of Complex Networks
+- Analysis of Smartphone and Wearable Device Data
+- Data Mining and Machine Learning
 
 <br> <br>
 
-## Submitted Papers
+### Published Papers
 
 <br>
 
-### 1. Dynamic Network Analysis: Varying-Coefficient Exponential Random Graph Models (VCERGMs)
+##### 1. Autism Spectrum Disorder and Brain MR Imaging Findings
+
+<center>
+<br><img src="image/brain.png" alt="congress" style="width:40%; border:0px solid"><br>
+</center>
+
+We identify developmental neuroradiologic findings in a large cohort of carriers who have deletion and duplication at 16p11.2 (one of the most common genetic causes of autism spectrum disorder [ASD]) and assess how these features are associated with behavioral and cognitive outcomes.
+
+<br>
+
+##### 2. Functional Data Analysis of Gait Data
+
+<center>
+<br><img src="image/registration.png" alt="registration" style="width:70%; border:0px solid"><br>
+</center>
+
+In this study, we explore the properties of continuous in-shoe sensor recordings using a functional data analysis approach. We separate the sources of variability (phase and amplitude) via curve registration. We examine the correlation of phase shifts across sensors within a stance to evaluate the pattern of phase variability shared across sensors. Using the registered curves, we explore possible associations between in-shoe sensor recordings and GRF measurements to evaluate the in-shoe sensor recordings as a possible surrogate for in-lab GRF measurements.
+
+You can find the paper [here](download/Lee2018Functional.pdf).
+
+<br> <br>
+
+### Submitted Papers
+
+<br>
+
+##### 1. Varying-Coefficient Exponential Random Graph Models
 
 <center>
 <br><img src="image/congress.png" alt="congress" style="width:80%; border:0px solid"><br>
@@ -46,29 +66,18 @@ Effectively making inference on dynamic networks is a computationally challengin
 
 Preprint is available [here](https://arxiv.org/abs/1702.03632).
 
-<br> 
+<br> <br>
 
-## Published Papers
+### In Preparation
 
 <br>
 
-### 1. Autism Spectrum Disorder and Brain MR Imaging Findings
+Projects I am currently working on are:
 
-<center>
-<br><img src="image/brain.png" alt="congress" style="width:40%; border:0px solid"><br>
-</center>
+- **Detecting Changes in Congressional Twitter Networks**: Applying VCERGM to understand the evolution and detect the changes in congressional networks in Twitter.
 
-We identify developmental neuroradiologic findings in a large cohort of carriers who have deletion and duplication at 16p11.2 (one of the most common genetic causes of autism spectrum disorder [ASD]) and assess how these features are associated with behavioral and cognitive outcomes.
+- **Effect of Co-Administration of Long-Acting Insulin in Acute Management of Diabetic Ketoacidosis**: Examing the efect of long-acting insulin in addition to IV insulin infusion as a treatment of diabetic ketoacidosis.
 
-
-### 2. Functional Registration: Gait analysis
-
-<center>
-<br><img src="image/registration.png" alt="registration" style="width:70%; border:0px solid"><br>
-</center>
-
-In this study, we explore the properties of continuous in-shoe sensor recordings using a functional data analysis approach. We separate the sources of variability (phase and amplitude) via curve registration. We examine the correlation of phase shifts across sensors within a stance to evaluate the pattern of phase variability shared across sensors. Using the registered curves, we explore possible associations between in-shoe sensor recordings and GRF measurements to evaluate the in-shoe sensor recordings as a possible surrogate for in-lab GRF measurements.
-
-You can find the paper [here](download/Lee2018Functional.pdf).
+- **Multilevel Stochastic Blockmodel**: Modeling time-varying block structure in dynamic networks.
 
 <br> <br>

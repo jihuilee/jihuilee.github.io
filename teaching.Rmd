@@ -3,7 +3,10 @@ title: "Teaching Experiences"
 output:
   html_document:
     toc: true
-    toc_float: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
 ---
 
 <link rel="stylesheet" href="academicons/css/academicons.min.css"/>
@@ -19,15 +22,15 @@ BEST/CSIBS at Columbia University, 2015
 
 <br><br>
 
-## Honor
+### Honor
 
 * Columbia Presidential Teaching Award for Graduate Student Instructors, 2018
 
 <br>
 
-## Instructor
+### Instructor
 
-#### Full responsibility of curriculum, lectures, homework and exams
+##### Full responsibility of curriculum, lectures, homework and exams
 
 <br> 
 
@@ -38,9 +41,9 @@ BEST/CSIBS at Columbia University, 2015
 
 <br> 
 
-## Teaching Assistant
+### Teaching Assistant
 
-#### Holding regular office hours & tutorials and grading assignments
+##### Holding regular office hours & tutorials and grading assignments
 
 * Columbia University
     + Theory of Statistical Inference 2 (P9110: Ph.D. Level), Spring 2016 - 2017

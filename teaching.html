@@ -183,7 +183,7 @@ $(document).ready(function ()  {
 
     // establish options
     var options = {
-      selectors: "h1,h2,h3",
+      selectors: "h1,h2,h3,h4,h5",
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
@@ -192,8 +192,8 @@ $(document).ready(function ()  {
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
     };
-    options.showAndHide = true;
-    options.smoothScroll = true;
+    options.showAndHide = false;
+    options.smoothScroll = false;
 
     // tocify
     var toc = $("#TOC").tocify(options).data("toc-tocify");
@@ -255,6 +255,12 @@ div.tocify {
   border-radius: 0px;
 }
 
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
 
 </style>
 
@@ -349,17 +355,17 @@ div.tocify {
 <br> <img src="image/BESTCSIBS.jpg" alt="teaching" style="width:30%; border:0px solid"> <br> BEST/CSIBS at Columbia University, 2015
 </center>
 <p><br><br></p>
-<div id="honor" class="section level2">
-<h2>Honor</h2>
+<div id="honor" class="section level3">
+<h3>Honor</h3>
 <ul>
 <li>Columbia Presidential Teaching Award for Graduate Student Instructors, 2018</li>
 </ul>
 <p><br></p>
 </div>
-<div id="instructor" class="section level2">
-<h2>Instructor</h2>
-<div id="full-responsibility-of-curriculum-lectures-homework-and-exams" class="section level4">
-<h4>Full responsibility of curriculum, lectures, homework and exams</h4>
+<div id="instructor" class="section level3">
+<h3>Instructor</h3>
+<div id="full-responsibility-of-curriculum-lectures-homework-and-exams" class="section level5">
+<h5>Full responsibility of curriculum, lectures, homework and exams</h5>
 <p><br></p>
 <ul>
 <li>Columbia University
@@ -371,10 +377,10 @@ div.tocify {
 <p><br></p>
 </div>
 </div>
-<div id="teaching-assistant" class="section level2">
-<h2>Teaching Assistant</h2>
-<div id="holding-regular-office-hours-tutorials-and-grading-assignments" class="section level4">
-<h4>Holding regular office hours &amp; tutorials and grading assignments</h4>
+<div id="teaching-assistant" class="section level3">
+<h3>Teaching Assistant</h3>
+<div id="holding-regular-office-hours-tutorials-and-grading-assignments" class="section level5">
+<h5>Holding regular office hours &amp; tutorials and grading assignments</h5>
 <ul>
 <li>Columbia University
 <ul>
