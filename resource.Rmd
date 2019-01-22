@@ -55,3 +55,9 @@ You can download my lecture note [here](download/[Jihui Lee] SAS_Lecture_Notes.p
 ##### 2. [Beauty of ggplot2](download/[Jihui Lee] ggplot2.pdf)
 
 This [pdf](download/[Jihui Lee] ggplot2.pdf) contains my presentation materials comparing base plots and ggplot in R.
+
+<br>
+
+##### 3. [How to Build an R Package](download/[Jihui Lee] R_Package.pdf)
+
+It is a quick [tutorial](download/[Jihui Lee] R_Package.pdf) on how to build your own package in R. I presented this at [WCM Biostatistics Computing Club](https://wcm-computing-club.github.io), which I founded and maintain. There are biweekly informal meetings of sharing cool coding skills and introducing new packages in various statistical softwares -- check out more resources on its website!
