@@ -26,6 +26,9 @@ navbar:
       href: https://scholar.google.com/citations?user=PCzD4XcAAAAJ&hl=en
 
 output:
+#   rmdformats::readthedown:
+#  prettydoc::html_pretty:
+#   theme: hpstr
   html_document:
    theme: lumen
    css: styles.css
