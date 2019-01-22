@@ -21,8 +21,8 @@ My research interests are vastly in
 
 - Functional Data Analysis
 - Statistical Analysis of Complex Networks
-- Analysis of Smartphone and Wearable Device Data
-- Data Mining and Machine Learning
+- Analysis of Mobile Health Data (e.g. Smartphone and Wearable Device Data)
+- Deep Learning
 
 <br> <br>
 

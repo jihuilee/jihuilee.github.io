@@ -11,8 +11,8 @@ navbar:
       href: teaching.html
     - text: "Presentation"
       href: presentation.html
-    - text: "Software"
-      href: software.html
+    - text: "Resources"
+      href: resource.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<jil2043@med.cornell.edu>

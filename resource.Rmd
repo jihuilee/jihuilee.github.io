@@ -1,0 +1,57 @@
+---
+title: "Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<br><br>
+
+<link rel="stylesheet" href="academicons/css/academicons.min.css"/>
+
+### R Packages
+
+<br>
+
+##### 1. ['VCERGM'](https://github.com/jihuilee/VCERGM)
+
+The R package `VCERGM` implements varying-coefficient random graph models (VCERGMs) on dynamic networks. Available on [GitHub](https://github.com/jihuilee/VCERGM).
+
+<center>
+<br><img src="image/voting.gif" alt="congressgif" style="width:40%; border:0px solid"><br>
+</center>
+
+##### 2. ['DigiPheno'](https://github.com/jihuilee/DigiPheno)
+
+The R package `DigiPheno` preprocesses and visualizes smartphone or wearable device data. It also provides functional data analysis approaches to analyze the data. Available on [GitHub](https://github.com/jihuilee/DigiPheno).
+
+<center>
+<br><img src="image/stepcount.png" alt="congressgif" style="width:70%; border:0px solid"><br>
+</center>
+
+<br><br>
+
+### Lecture Notes & Slides
+
+<br>
+
+##### 1. [SAS Lecture Notes](download/[Jihui Lee] SAS_Lecture_Notes.pdf)
+
+I have taught **P6110: Statistical Computing with SAS** for over 6 semesters. Topics covered in class include:
+
+- data manipulation
+- data summary and visualization
+- hypothesis testing 
+- linear regression models
+- generalized linear models
+- survival data analysis
+- longitudinal data analysis
+
+You can download my lecture note [here](download/[Jihui Lee] SAS_Lecture_Notes.pdf). Relevant SAS example codes are available upon request.
+
+<br>
+
+##### 2. [Beauty of ggplot2](download/[Jihui Lee] ggplot2.pdf)
+
+This [pdf](download/[Jihui Lee] ggplot2.pdf) contains my presentation materials comparing base plots and ggplot in R.

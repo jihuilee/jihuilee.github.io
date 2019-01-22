@@ -19,6 +19,11 @@ Poster presentation at Columbia Data Science Institute, 2016
 
 <br><br>
 
+### 2019
+
+* Weill Cornell Medicine Biostatistics Computing Club, New York, NY, January 17, 2019
+    + *How to Build a Package in R*
+
 ### 2018
 
 * Political Networks (PolNet) Workshops and Conference, Arlington, VA, June 08, 2018
