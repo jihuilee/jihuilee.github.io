@@ -9,8 +9,6 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Presentation"
-      href: presentation.html
     - text: "Resources"
       href: resource.html
   right:

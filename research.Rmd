@@ -26,58 +26,17 @@ My research interests are vastly in
 
 <br> <br>
 
-### Published Papers
+### 2020
 
-<br>
 
-##### 1. Autism Spectrum Disorder and Brain MR Imaging Findings
+**Jihui Lee**, Gen Li, and James D. Wilson. **``Varying-Coefficient Models for Dynamic Networks."** Computational Statistics \& Data Analysis 152 (2020): 107052. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167947320301432) [[R package]](https://github.com/jihuilee/VCERGM)
 
-<center>
-<br><img src="image/brain.png" alt="congress" style="width:40%; border:0px solid"><br>
-</center>
+Nili Solomonov, **Jihui Lee**, Samprit Banerjee, Christoph Fl\"uckiger, Dora Kanellopoulos, Jo Anne Sirey, Conor Liston, Patrick J. Raue, Patricia A. Are\'an, Faith M. Gunning, and George S. Alexopoulos. **``Predictors of Early Risk for Treatment Non-response in Psychotherapies for Late-life Depression with Executive Dysfunction: A Machine Learning Approach.''** Molecular Psychiatry (2020): 1-9. [[paper]](https://www.nature.com/articles/s41380-020-0836-z)
 
-We identify developmental neuroradiologic findings in a large cohort of carriers who have deletion and duplication at 16p11.2 (one of the most common genetic causes of autism spectrum disorder [ASD]) and assess how these features are associated with behavioral and cognitive outcomes.
+### 2019
 
-<br>
+**Jihui Lee**, Gen Li, William F. Christensen, Gavin Collins, Matthew Seeley, Anton Bowden, David Fullwood, and Jeff Goldsmith. **``Functional Data Analyses of Gait Data Measured Using In-Shoe Sensors."** Statistics in Biosciences (2019): 1-26. [[paper]](https://link.springer.com/article/10.1007/s12561-018-9226-3)
 
-##### 2. Functional Data Analysis of Gait Data
+### 2018
 
-<center>
-<br><img src="image/registration.png" alt="registration" style="width:70%; border:0px solid"><br>
-</center>
-
-In this study, we explore the properties of continuous in-shoe sensor recordings using a functional data analysis approach. We separate the sources of variability (phase and amplitude) via curve registration. We examine the correlation of phase shifts across sensors within a stance to evaluate the pattern of phase variability shared across sensors. Using the registered curves, we explore possible associations between in-shoe sensor recordings and GRF measurements to evaluate the in-shoe sensor recordings as a possible surrogate for in-lab GRF measurements.
-
-You can find the paper [here](download/Lee2018Functional.pdf).
-
-<br> <br>
-
-### Submitted Papers
-
-<br>
-
-##### 1. Varying-Coefficient Exponential Random Graph Models
-
-<center>
-<br><img src="image/congress.png" alt="congress" style="width:80%; border:0px solid"><br>
-</center>
-
-Effectively making inference on dynamic networks is a computationally challenging task, and many dynamic network models are intractable even for moderately sized networks. In this paper, we propose and investigate a family of dynamic network models, known as varying-coefficient exponential random graph models (VCERGMs), that characterize the evolution of network topology through smoothly varying parameters. The VCERGM provides an interpretable dynamic network model that enables the inference of temporal heterogeneity in dynamic networks. We establish how to fit the VCERGM through maximum pseudo-likelihood techniques, and provide a computationally tractable method for statistical inference of complex dynamic networks. We furthermore devise a bootstrap hypothesis testing framework for testing the temporal heterogeneity of an observed dynamic network sequence.
-
-Preprint is available [here](https://arxiv.org/abs/1702.03632).
-
-<br> <br>
-
-### In Preparation
-
-<br>
-
-Projects I am currently working on are:
-
-- **Detecting Changes in Congressional Twitter Networks**: Applying VCERGM to understand the evolution and detect the changes in congressional networks in Twitter.
-
-- **Effect of Co-Administration of Long-Acting Insulin in Acute Management of Diabetic Ketoacidosis**: Examing the efect of long-acting insulin in addition to IV insulin infusion as a treatment of diabetic ketoacidosis.
-
-- **Multilevel Stochastic Blockmodel**: Modeling time-varying block structure in dynamic networks.
-
-<br> <br>
+Julia P. Owen, Polina Bukshpun, Nicholas Pojman, Tony Thieu, Qixuan Chen, **Jihui Lee**, Debra D'Angelo, Orit A. Glenn, Jill V. Hunter, Jeffrey I. Berman, Timothy P. Roberts, Randy Buckner, Srikantan S. Nagarajan, Pratik Mukherjee, and Elliott H. Sherr. **``Brain MR Imaging Findings and Associated Outcomes in Carriers of the Reciprocal Copy Number Variation at 16p11.2."** Radiology 286, no. 1 (2018): 217-226. [[paper]](https://pubs.rsna.org/doi/10.1148/radiol.2017162934?url_ver=Z39.88-2003&rfr_id=ori\%3Arid\%3Acrossref.org&rfr_dat=cr_pub\%3Dpubmed)

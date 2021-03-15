@@ -36,9 +36,9 @@ The R package `DigiPheno` preprocesses and visualizes smartphone or wearable dev
 
 <br>
 
-##### 1. [SAS Lecture Notes](download/[Jihui Lee] SAS_Lecture_Notes.pdf)
+##### 1. SAS Lecture Notes
 
-I have taught **P6110: Statistical Computing with SAS** for over 6 semesters. Topics covered in class include:
+I have taught **P6110: Statistical Computing with SAS** for 7 semesters. Topics covered in class include:
 
 - data manipulation
 - data summary and visualization
@@ -48,7 +48,7 @@ I have taught **P6110: Statistical Computing with SAS** for over 6 semesters. To
 - survival data analysis
 - longitudinal data analysis
 
-You can download my lecture note [here](download/[Jihui Lee] SAS_Lecture_Notes.pdf). Relevant SAS example codes are available upon request.
+I would be happy to share my lecture notes. Relevant SAS example codes are also available upon request.
 
 <br>
 

@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -75,9 +76,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -91,7 +90,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -196,8 +194,6 @@ $(document).ready(function () {
 });
 </script>
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
 
 <style type="text/css">
@@ -254,48 +250,9 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3,h4,h5",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = false;
-    options.smoothScroll = false;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -344,8 +301,6 @@ div.tocify {
 
 .tocify-subheader .tocify-item {
   font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
 }
 
 .tocify .list-group-item {
@@ -360,6 +315,16 @@ div.tocify {
 }
 
 </style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row-fluid">
@@ -393,9 +358,6 @@ div.tocify {
 </li>
 <li>
   <a href="teaching.html">Teaching</a>
-</li>
-<li>
-  <a href="presentation.html">Presentation</a>
 </li>
 <li>
   <a href="resource.html">Resources</a>
@@ -460,50 +422,18 @@ div.tocify {
 </ul>
 <p><br> <br></p>
 </div>
-<div id="published-papers" class="section level3">
-<h3>Published Papers</h3>
-<p><br></p>
-<div id="autism-spectrum-disorder-and-brain-mr-imaging-findings" class="section level5">
-<h5>1. Autism Spectrum Disorder and Brain MR Imaging Findings</h5>
-<center>
-<br><img src="image/brain.png" alt="congress" style="width:40%; border:0px solid"><br>
-</center>
-<p>We identify developmental neuroradiologic findings in a large cohort of carriers who have deletion and duplication at 16p11.2 (one of the most common genetic causes of autism spectrum disorder [ASD]) and assess how these features are associated with behavioral and cognitive outcomes.</p>
-<p><br></p>
+<div id="section" class="section level3">
+<h3>2020</h3>
+<p><strong>Jihui Lee</strong>, Gen Li, and James D. Wilson. <strong>``Varying-Coefficient Models for Dynamic Networks.&quot;</strong> Computational Statistics &amp; Data Analysis 152 (2020): 107052. <a href="https://www.sciencedirect.com/science/article/pii/S0167947320301432">[paper]</a> <a href="https://github.com/jihuilee/VCERGM">[R package]</a></p>
+<p>Nili Solomonov, <strong>Jihui Lee</strong>, Samprit Banerjee, Christoph Fl&quot;uckiger, Dora Kanellopoulos, Jo Anne Sirey, Conor Liston, Patrick J. Raue, Patricia A. Are'an, Faith M. Gunning, and George S. Alexopoulos. <strong>``Predictors of Early Risk for Treatment Non-response in Psychotherapies for Late-life Depression with Executive Dysfunction: A Machine Learning Approach.’’</strong> Molecular Psychiatry (2020): 1-9. <a href="https://www.nature.com/articles/s41380-020-0836-z">[paper]</a></p>
 </div>
-<div id="functional-data-analysis-of-gait-data" class="section level5">
-<h5>2. Functional Data Analysis of Gait Data</h5>
-<center>
-<br><img src="image/registration.png" alt="registration" style="width:70%; border:0px solid"><br>
-</center>
-<p>In this study, we explore the properties of continuous in-shoe sensor recordings using a functional data analysis approach. We separate the sources of variability (phase and amplitude) via curve registration. We examine the correlation of phase shifts across sensors within a stance to evaluate the pattern of phase variability shared across sensors. Using the registered curves, we explore possible associations between in-shoe sensor recordings and GRF measurements to evaluate the in-shoe sensor recordings as a possible surrogate for in-lab GRF measurements.</p>
-<p>You can find the paper <a href="download/Lee2018Functional.pdf">here</a>.</p>
-<p><br> <br></p>
+<div id="section-1" class="section level3">
+<h3>2019</h3>
+<p><strong>Jihui Lee</strong>, Gen Li, William F. Christensen, Gavin Collins, Matthew Seeley, Anton Bowden, David Fullwood, and Jeff Goldsmith. <strong>``Functional Data Analyses of Gait Data Measured Using In-Shoe Sensors.&quot;</strong> Statistics in Biosciences (2019): 1-26. <a href="https://link.springer.com/article/10.1007/s12561-018-9226-3">[paper]</a></p>
 </div>
-</div>
-<div id="submitted-papers" class="section level3">
-<h3>Submitted Papers</h3>
-<p><br></p>
-<div id="varying-coefficient-exponential-random-graph-models" class="section level5">
-<h5>1. Varying-Coefficient Exponential Random Graph Models</h5>
-<center>
-<br><img src="image/congress.png" alt="congress" style="width:80%; border:0px solid"><br>
-</center>
-<p>Effectively making inference on dynamic networks is a computationally challenging task, and many dynamic network models are intractable even for moderately sized networks. In this paper, we propose and investigate a family of dynamic network models, known as varying-coefficient exponential random graph models (VCERGMs), that characterize the evolution of network topology through smoothly varying parameters. The VCERGM provides an interpretable dynamic network model that enables the inference of temporal heterogeneity in dynamic networks. We establish how to fit the VCERGM through maximum pseudo-likelihood techniques, and provide a computationally tractable method for statistical inference of complex dynamic networks. We furthermore devise a bootstrap hypothesis testing framework for testing the temporal heterogeneity of an observed dynamic network sequence.</p>
-<p>Preprint is available <a href="https://arxiv.org/abs/1702.03632">here</a>.</p>
-<p><br> <br></p>
-</div>
-</div>
-<div id="in-preparation" class="section level3">
-<h3>In Preparation</h3>
-<p><br></p>
-<p>Projects I am currently working on are:</p>
-<ul>
-<li><p><strong>Detecting Changes in Congressional Twitter Networks</strong>: Applying VCERGM to understand the evolution and detect the changes in congressional networks in Twitter.</p></li>
-<li><p><strong>Effect of Co-Administration of Long-Acting Insulin in Acute Management of Diabetic Ketoacidosis</strong>: Examing the efect of long-acting insulin in addition to IV insulin infusion as a treatment of diabetic ketoacidosis.</p></li>
-<li><p><strong>Multilevel Stochastic Blockmodel</strong>: Modeling time-varying block structure in dynamic networks.</p></li>
-</ul>
-<p><br> <br></p>
+<div id="section-2" class="section level3">
+<h3>2018</h3>
+<p>Julia P. Owen, Polina Bukshpun, Nicholas Pojman, Tony Thieu, Qixuan Chen, <strong>Jihui Lee</strong>, Debra D’Angelo, Orit A. Glenn, Jill V. Hunter, Jeffrey I. Berman, Timothy P. Roberts, Randy Buckner, Srikantan S. Nagarajan, Pratik Mukherjee, and Elliott H. Sherr. <strong>``Brain MR Imaging Findings and Associated Outcomes in Carriers of the Reciprocal Copy Number Variation at 16p11.2.&quot;</strong> Radiology 286, no. 1 (2018): 217-226. <a href="https://pubs.rsna.org/doi/10.1148/radiol.2017162934?url_ver=Z39.88-2003&amp;rfr_id=ori%3Arid%3Acrossref.org&amp;rfr_dat=cr_pub%3Dpubmed">[paper]</a></p>
 </div>
 
 
@@ -524,6 +454,49 @@ $(document).ready(function () {
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4,h5",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
