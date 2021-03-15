@@ -29,14 +29,14 @@ My research interests are vastly in
 ### 2020
 
 
-**Jihui Lee**, Gen Li, and James D. Wilson. **``Varying-Coefficient Models for Dynamic Networks."** Computational Statistics \& Data Analysis 152 (2020): 107052. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167947320301432) [[R package]](https://github.com/jihuilee/VCERGM)
+**Jihui Lee**, Gen Li, and James D. Wilson. *"Varying-Coefficient Models for Dynamic Networks."* Computational Statistics \& Data Analysis 152 (2020): 107052. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167947320301432) [[R package]](https://github.com/jihuilee/VCERGM)
 
-Nili Solomonov, **Jihui Lee**, Samprit Banerjee, Christoph Fl\"uckiger, Dora Kanellopoulos, Jo Anne Sirey, Conor Liston, Patrick J. Raue, Patricia A. Are\'an, Faith M. Gunning, and George S. Alexopoulos. **``Predictors of Early Risk for Treatment Non-response in Psychotherapies for Late-life Depression with Executive Dysfunction: A Machine Learning Approach.''** Molecular Psychiatry (2020): 1-9. [[paper]](https://www.nature.com/articles/s41380-020-0836-z)
+Nili Solomonov, **Jihui Lee**, Samprit Banerjee, Christoph Fl\"uckiger, Dora Kanellopoulos, Jo Anne Sirey, Conor Liston, Patrick J. Raue, Patricia A. Are\'an, Faith M. Gunning, and George S. Alexopoulos. *"Predictors of Early Risk for Treatment Non-response in Psychotherapies for Late-life Depression with Executive Dysfunction: A Machine Learning Approach."* Molecular Psychiatry (2020): 1-9. [[paper]](https://www.nature.com/articles/s41380-020-0836-z)
 
 ### 2019
 
-**Jihui Lee**, Gen Li, William F. Christensen, Gavin Collins, Matthew Seeley, Anton Bowden, David Fullwood, and Jeff Goldsmith. **``Functional Data Analyses of Gait Data Measured Using In-Shoe Sensors."** Statistics in Biosciences (2019): 1-26. [[paper]](https://link.springer.com/article/10.1007/s12561-018-9226-3)
+**Jihui Lee**, Gen Li, William F. Christensen, Gavin Collins, Matthew Seeley, Anton Bowden, David Fullwood, and Jeff Goldsmith. *"Functional Data Analyses of Gait Data Measured Using In-Shoe Sensors."* Statistics in Biosciences (2019): 1-26. [[paper]](https://link.springer.com/article/10.1007/s12561-018-9226-3)
 
 ### 2018
 
-Julia P. Owen, Polina Bukshpun, Nicholas Pojman, Tony Thieu, Qixuan Chen, **Jihui Lee**, Debra D'Angelo, Orit A. Glenn, Jill V. Hunter, Jeffrey I. Berman, Timothy P. Roberts, Randy Buckner, Srikantan S. Nagarajan, Pratik Mukherjee, and Elliott H. Sherr. **``Brain MR Imaging Findings and Associated Outcomes in Carriers of the Reciprocal Copy Number Variation at 16p11.2."** Radiology 286, no. 1 (2018): 217-226. [[paper]](https://pubs.rsna.org/doi/10.1148/radiol.2017162934?url_ver=Z39.88-2003&rfr_id=ori\%3Arid\%3Acrossref.org&rfr_dat=cr_pub\%3Dpubmed)
+Julia P. Owen, Polina Bukshpun, Nicholas Pojman, Tony Thieu, Qixuan Chen, **Jihui Lee**, Debra D'Angelo, Orit A. Glenn, Jill V. Hunter, Jeffrey I. Berman, Timothy P. Roberts, Randy Buckner, Srikantan S. Nagarajan, Pratik Mukherjee, and Elliott H. Sherr. *"Brain MR Imaging Findings and Associated Outcomes in Carriers of the Reciprocal Copy Number Variation at 16p11.2."* Radiology 286, no. 1 (2018): 217-226. [[paper]](https://pubs.rsna.org/doi/10.1148/radiol.2017162934?url_ver=Z39.88-2003&rfr_id=ori\%3Arid\%3Acrossref.org&rfr_dat=cr_pub\%3Dpubmed)
