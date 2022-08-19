@@ -2,7 +2,7 @@
 title: <center> Jihui Lee, Ph.D. </center>
 ---
 
-<center> Instructor at Weill Cornell Medical College </center>
+<center> Assistant Professor of Psychiatry and Biostatistics at the University of Pittsburgh </center>
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicons/css/academicons.min.css"/>
@@ -16,9 +16,7 @@ title: <center> Jihui Lee, Ph.D. </center>
 
 #### About
 
-
-I am an Instructor in the [Division of Biostatistics](http://hpr.weill.cornell.edu/divisions/biostatistics/) of [Department of Population Health Sciences](https://phs.weill.cornell.edu) at Weill Cornell Medicine.
-
+I am an Assistant Professor in the [Department of Psychiatry](https://psychiatry.pitt.edu) at the University of Pittsburgh. Before joining the University of Pittsburgh, I worked in the [Division of Biostatistics](http://hpr.weill.cornell.edu/divisions/biostatistics/) of [Department of Population Health Sciences](https://phs.weill.cornell.edu) at Weill Cornell Medicine.
 
 I received a PhD in biostatistics from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics) in 2018. My dissertation advisors are Dr. [Jeff Goldsmith](http://jeffgoldsmith.com) and Dr. [Gen Li](https://sites.google.com/view/ligen). My dissertation is available [here](https://doi.org/10.7916/D8N603XB). Prior to that, I received a BS in statistics from [University of Seoul](http://www.uos.ac.kr/en/) in 2011 and a MS in statistics from [Seoul National University](http://en.snu.ac.kr) in 2013. 
 
@@ -31,6 +29,8 @@ My full CV is available [here](download/[Jihui Lee] CV.pdf).
 
 #### Contact Information
 
-Office: 402 East 67th Street, New York, NY 10065  
-Email: [jil2043 at med dot cornell dot edu](mailto:jil2043@med.cornell.edu) 
+Office: 3811 O'Hara St., Pittsburgh, PA 15213
+
+Email: [jihui dot lee at pitt dot edu](mailto:jjihui.lee@pitt.edu) 
+
 GitHub: [github.com/jihuilee/](http://github.com/jihuilee/)

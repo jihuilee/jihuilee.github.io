@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -14,12 +13,22 @@
 
 <title>Research Projects</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
@@ -29,12 +38,16 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -47,32 +60,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -83,10 +72,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -103,40 +88,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 54px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 59px;
-  margin-top: -59px;
-}
-.section h2 {
-  padding-top: 59px;
-  margin-top: -59px;
-}
-.section h3 {
-  padding-top: 59px;
-  margin-top: -59px;
-}
-.section h4 {
-  padding-top: 59px;
-  margin-top: -59px;
-}
-.section h5 {
-  padding-top: 59px;
-  margin-top: -59px;
-}
-.section h6 {
-  padding-top: 59px;
-  margin-top: -59px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -164,7 +125,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -176,7 +137,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -187,10 +148,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -202,7 +176,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -238,6 +211,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -266,6 +240,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -327,7 +307,7 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
+<div class="row">
 <div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
@@ -341,7 +321,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -399,7 +379,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -417,7 +397,8 @@ div.tocify {
 <ul>
 <li>Functional Data Analysis</li>
 <li>Statistical Analysis of Complex Networks</li>
-<li>Analysis of Mobile Health Data (e.g. Smartphone and Wearable Device Data)</li>
+<li>Analysis of Mobile Health Data (e.g. Smartphone and Wearable Device
+Data)</li>
 <li>Deep Learning</li>
 </ul>
 <p><br> <br></p>
@@ -425,12 +406,17 @@ div.tocify {
 <div id="published-papers" class="section level3">
 <h3>Published Papers</h3>
 <p><br></p>
-<div id="autism-spectrum-disorder-and-brain-mr-imaging-findings" class="section level5">
+<div id="autism-spectrum-disorder-and-brain-mr-imaging-findings"
+class="section level5">
 <h5>1. Autism Spectrum Disorder and Brain MR Imaging Findings</h5>
 <center>
 <br><img src="image/brain.png" alt="congress" style="width:40%; border:0px solid"><br>
 </center>
-<p>We identify developmental neuroradiologic findings in a large cohort of carriers who have deletion and duplication at 16p11.2 (one of the most common genetic causes of autism spectrum disorder [ASD]) and assess how these features are associated with behavioral and cognitive outcomes.</p>
+<p>We identify developmental neuroradiologic findings in a large cohort
+of carriers who have deletion and duplication at 16p11.2 (one of the
+most common genetic causes of autism spectrum disorder [ASD]) and assess
+how these features are associated with behavioral and cognitive
+outcomes.</p>
 <p><br></p>
 </div>
 <div id="functional-data-analysis-of-gait-data" class="section level5">
@@ -438,21 +424,44 @@ div.tocify {
 <center>
 <br><img src="image/registration.png" alt="registration" style="width:70%; border:0px solid"><br>
 </center>
-<p>In this study, we explore the properties of continuous in-shoe sensor recordings using a functional data analysis approach. We separate the sources of variability (phase and amplitude) via curve registration. We examine the correlation of phase shifts across sensors within a stance to evaluate the pattern of phase variability shared across sensors. Using the registered curves, we explore possible associations between in-shoe sensor recordings and GRF measurements to evaluate the in-shoe sensor recordings as a possible surrogate for in-lab GRF measurements.</p>
-<p>You can find the paper <a href="download/Lee2018Functional.pdf">here</a>.</p>
+<p>In this study, we explore the properties of continuous in-shoe sensor
+recordings using a functional data analysis approach. We separate the
+sources of variability (phase and amplitude) via curve registration. We
+examine the correlation of phase shifts across sensors within a stance
+to evaluate the pattern of phase variability shared across sensors.
+Using the registered curves, we explore possible associations between
+in-shoe sensor recordings and GRF measurements to evaluate the in-shoe
+sensor recordings as a possible surrogate for in-lab GRF
+measurements.</p>
+<p>You can find the paper <a
+href="download/Lee2018Functional.pdf">here</a>.</p>
 <p><br> <br></p>
 </div>
 </div>
 <div id="submitted-papers" class="section level3">
 <h3>Submitted Papers</h3>
 <p><br></p>
-<div id="varying-coefficient-exponential-random-graph-models" class="section level5">
+<div id="varying-coefficient-exponential-random-graph-models"
+class="section level5">
 <h5>1. Varying-Coefficient Exponential Random Graph Models</h5>
 <center>
 <br><img src="image/congress.png" alt="congress" style="width:80%; border:0px solid"><br>
 </center>
-<p>Effectively making inference on dynamic networks is a computationally challenging task, and many dynamic network models are intractable even for moderately sized networks. In this paper, we propose and investigate a family of dynamic network models, known as varying-coefficient exponential random graph models (VCERGMs), that characterize the evolution of network topology through smoothly varying parameters. The VCERGM provides an interpretable dynamic network model that enables the inference of temporal heterogeneity in dynamic networks. We establish how to fit the VCERGM through maximum pseudo-likelihood techniques, and provide a computationally tractable method for statistical inference of complex dynamic networks. We furthermore devise a bootstrap hypothesis testing framework for testing the temporal heterogeneity of an observed dynamic network sequence.</p>
-<p>Preprint is available <a href="https://arxiv.org/abs/1702.03632">here</a>.</p>
+<p>Effectively making inference on dynamic networks is a computationally
+challenging task, and many dynamic network models are intractable even
+for moderately sized networks. In this paper, we propose and investigate
+a family of dynamic network models, known as varying-coefficient
+exponential random graph models (VCERGMs), that characterize the
+evolution of network topology through smoothly varying parameters. The
+VCERGM provides an interpretable dynamic network model that enables the
+inference of temporal heterogeneity in dynamic networks. We establish
+how to fit the VCERGM through maximum pseudo-likelihood techniques, and
+provide a computationally tractable method for statistical inference of
+complex dynamic networks. We furthermore devise a bootstrap hypothesis
+testing framework for testing the temporal heterogeneity of an observed
+dynamic network sequence.</p>
+<p>Preprint is available <a
+href="https://arxiv.org/abs/1702.03632">here</a>.</p>
 <p><br> <br></p>
 </div>
 </div>
@@ -461,9 +470,15 @@ div.tocify {
 <p><br></p>
 <p>Projects I am currently working on are:</p>
 <ul>
-<li><p><strong>Detecting Changes in Congressional Twitter Networks</strong>: Applying VCERGM to understand the evolution and detect the changes in congressional networks in Twitter.</p></li>
-<li><p><strong>Effect of Co-Administration of Long-Acting Insulin in Acute Management of Diabetic Ketoacidosis</strong>: Examing the efect of long-acting insulin in addition to IV insulin infusion as a treatment of diabetic ketoacidosis.</p></li>
-<li><p><strong>Multilevel Stochastic Blockmodel</strong>: Modeling time-varying block structure in dynamic networks.</p></li>
+<li><p><strong>Detecting Changes in Congressional Twitter
+Networks</strong>: Applying VCERGM to understand the evolution and
+detect the changes in congressional networks in Twitter.</p></li>
+<li><p><strong>Effect of Co-Administration of Long-Acting Insulin in
+Acute Management of Diabetic Ketoacidosis</strong>: Examing the efect of
+long-acting insulin in addition to IV insulin infusion as a treatment of
+diabetic ketoacidosis.</p></li>
+<li><p><strong>Multilevel Stochastic Blockmodel</strong>: Modeling
+time-varying block structure in dynamic networks.</p></li>
 </ul>
 <p><br> <br></p>
 </div>
@@ -479,7 +494,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -497,7 +512,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
@@ -506,6 +521,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
@@ -518,7 +536,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
